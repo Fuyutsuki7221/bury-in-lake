@@ -11,8 +11,12 @@ comments: true
 
 ***
 
+<br>
+
+**前篇：[《Nevermore》](https://fuyutsuki7221.github.io/bury-in-lake/nevermore/)**
 
 <br>
+
 
 **#SIDE A**
 
