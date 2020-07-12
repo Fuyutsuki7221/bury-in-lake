@@ -219,3 +219,6 @@ Fin.
 
 ⑤阿尔蒂尔·兰波-《地狱之夜》
 
+<br>
+
+**后日谈：[《死于阳光》](https://fuyutsuki7221.github.io/bury-in-lake/dying-in-the-sun/)**
