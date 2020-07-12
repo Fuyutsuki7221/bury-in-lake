@@ -66,7 +66,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: 华枝春满，天心月圆。
+footer-text: copyright© 冬月二十
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
@@ -77,10 +77,10 @@ disqus: loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: fed96bad24fa38a40924
+  clientSecret: 34dc09b724d72a134f67c214c26dd87815c4ae25
+  repo: comments
+  owner: fuyutsuki7221
 
 # 输入Google Analytics web tracking code
 google_analytics:
