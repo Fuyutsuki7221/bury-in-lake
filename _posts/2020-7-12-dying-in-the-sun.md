@@ -9,6 +9,10 @@ tags: [文豪野犬,国太]
 comments: true
 --- 
 
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="https://music.163.com/#/song?id=4330223">
+      </audio>
+
 ***
 
 <br>
