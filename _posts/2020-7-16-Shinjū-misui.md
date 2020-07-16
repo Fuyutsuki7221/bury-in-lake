@@ -8,6 +8,13 @@ tags: [文豪野犬,国太]
 
 comments: true
 --- 
+<br>
+
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="http://m10.music.126.net/20200716221306/7192ec7d6d52bdcaad4e140a7b072809/ymusic/fb58/8021/c628/82f7db3702f82aed51845184359585df.mp3">
+      </audio>
+
+<br>
 
 ***
 <br>
@@ -15,8 +22,6 @@ comments: true
 **写在前面：2017年下半年的东西。写给一位已故朋友的生贺。**
 
 *<u>WARNINGS:血腥情节，单向性转，精神疾病，开放结局，乱线叙事。</u>*
-
-♪：[椎名林檎《浴室》](https://music.163.com/#/song?id=642000)
 
 <br>
 
