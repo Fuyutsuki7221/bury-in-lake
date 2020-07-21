@@ -10,8 +10,8 @@ comments: true
 --- 
 <br>
 
-<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="http://m10.music.126.net/20200720131307/be56b83a3dd92507cfc714ebe36f3914/ymusic/f2db/2abd/ea4f/42586c575a4d16f0b77907a0ebf43a46.mp3">
+<audio id="audio" controls="" preload="true">
+      <source id="mp3" src="http://m10.music.126.net/20200721122553/d874720b2003f19ae3d6e53b50aa1fe4/ymusic/f2db/2abd/ea4f/42586c575a4d16f0b77907a0ebf43a46.mp3">
       </audio>
 
 ***
