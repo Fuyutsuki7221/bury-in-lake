@@ -12,12 +12,6 @@ comments: true
 ***
 <br>
 
-
-<audio id="audio" controls="" preload="true">
-      <source id="mp3" src="http://m801.music.126.net/20200721130959/3be4567ce368df6a84b80d149b6fbdea/jdymusic/obj/w5zDlMODwrDDiGjCn8Ky/2196853462/116b/ae73/87d8/30e2eae8123bd328c09c798ea4f1e3ae.mp3">
-      </audio>
-
-
 <br>
 
 **写在前面：2017年写下的。文中的金/帐/汗/国，或者说岱钦参照的是当年朋友创作的人设。**
