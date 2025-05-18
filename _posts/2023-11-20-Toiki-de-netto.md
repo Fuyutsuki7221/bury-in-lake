@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [约稿展示]吐息でネット
+title: 【约稿展示】吐息でネット
 date: 2023-11-20
 Author: 柔弦夜曲
 categories: 
