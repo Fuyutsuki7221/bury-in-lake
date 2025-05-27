@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Mes Fenêtres Donnent Sur la Cour（二）
+title: 【セブツキ旧篇】Mes Fenêtres Donnent Sur la Cour（二）
 date: 2021-10-21
 Author: 冬月二十
 categories: 
-tags: [ウルトラマン,诸星团]
+tags: [ウルトラマン,诸星团,セブツキ]
 
 comments: true
 --- 
