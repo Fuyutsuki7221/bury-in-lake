@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 蜗牛，真的很强大！
+title: 【セブツキ旧篇】蜗牛，真的很强大！
 date: 2021-06-29
 Author: 冬月二十
 categories: 
-tags: [ウルトラマン,诸星团]
+tags: [ウルトラマン,诸星团,セブツキ]
 
 comments: true
 --- 
