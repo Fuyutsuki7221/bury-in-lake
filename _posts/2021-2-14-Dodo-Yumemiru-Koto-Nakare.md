@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 切勿每晚入梦
+title: 【セブツキ旧篇】切勿每晚入梦
 date: 2021-02-14
 Author: 冬月二十
 categories: 
-tags: [ウルトラマン,诸星团]
+tags: [ウルトラマン,诸星团,セブツキ]
 
 comments: true
 --- 
