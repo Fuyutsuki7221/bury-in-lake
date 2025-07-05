@@ -4,7 +4,7 @@ title: Wilder Wein
 date: 2025-07-04
 Author: 冬月二十
 categories: 
-tags: [ウルトラマン,诸星团,Richter und Seine Welt]
+tags: [ウルトラマン,诸星团,Berliner Verhältnisse]
 
 comments: true
 --- 
